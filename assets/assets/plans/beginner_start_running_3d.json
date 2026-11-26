@@ -1,0 +1,369 @@
+{
+  "id": "beginner_start_running_3d",
+  "level": "beginner",
+  "goal": "start_running",
+  "days_per_week": 3,
+  "duration_weeks": 9,
+  "title": "Do zero aos 30 minutos",
+  "summary": "Nove semanas alternando caminhada e corrida, até correr 30 minutos seguidos. Nenhum treino pede ritmo nem frequência cardíaca: o guia é o esforço percebido.",
+  "principles": [
+    "O tempo de corrida sobe entre 11% e 21% por semana. É uma progressão rápida para quem nunca correu, e repetir uma semana é a escolha certa quando alguma parecer dura.",
+    "A partir da semana 5 os três treinos ficam diferentes: o primeiro repete a carga da semana anterior e serve de dia leve.",
+    "Pelo menos um dia de descanso entre dois treinos. A adaptação acontece no descanso.",
+    "O tempo total de treino cai entre as semanas 1 e 5 enquanto o tempo de corrida sobe. O que diminui é a caminhada."
+  ],
+  "rpe_guide": {
+    "2": "Caminhada tranquila. Respiração normal.",
+    "3": "Caminhada firme. Dá para conversar sem esforço.",
+    "4": "Corrida leve. Dá para conversar em frases curtas.",
+    "5": "Corrida confortável. A conversa fica mais difícil."
+  },
+  "progression_check": {
+    "metric": "minutos de corrida por semana",
+    "values": [24, 27, 30, 36, 41, 49, 59, 70, 80],
+    "max_weekly_increase_pct": 21
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "focus": "primeiros passos",
+      "notes": "O minuto de corrida parece curto e é isso mesmo. A semana existe para o corpo entender o movimento, não para cansar.",
+      "target_minutes": 102,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Caminhada e corrida — 1 min",
+          "description": "Caminhe 5 minutos para aquecer. Depois alterne 1 minuto de corrida leve com 2 minutos de caminhada, oito vezes. Termine com 5 minutos de caminhada. Se o minuto de corrida parecer demais, caminhe mais tempo e volte a correr quando se sentir bem.",
+          "duration_min": 34,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "repeat", "times": 8, "of": [
+              { "kind": "run", "duration_min": 1, "rpe": 4, "note": "Corrida leve" },
+              { "kind": "walk", "duration_min": 2, "rpe": 2, "note": "Caminhada para recuperar" }
+            ]}
+          ]
+        },
+        { "repeat_of": 0 },
+        { "repeat_of": 0 }
+      ]
+    },
+    {
+      "week_number": 2,
+      "focus": "um minuto e meio",
+      "notes": "A corrida vai de 1 para 1 minuto e meio. O treino inteiro fica 3 minutos mais curto que na semana 1.",
+      "target_minutes": 93,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Caminhada e corrida — 1,5 min",
+          "description": "Caminhe 5 minutos para aquecer. Alterne 1 minuto e meio de corrida leve com 2 minutos de caminhada, seis vezes. Termine caminhando 5 minutos.",
+          "duration_min": 31,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "repeat", "times": 6, "of": [
+              { "kind": "run", "duration_min": 1.5, "rpe": 4 },
+              { "kind": "walk", "duration_min": 2, "rpe": 2 }
+            ]}
+          ]
+        },
+        { "repeat_of": 0 },
+        { "repeat_of": 0 }
+      ]
+    },
+    {
+      "week_number": 3,
+      "focus": "dois minutos",
+      "notes": "Corrida e caminhada passam a ter a mesma duração. É a primeira vez que você corre tanto quanto caminha.",
+      "target_minutes": 90,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Caminhada e corrida — 2 min",
+          "description": "Caminhe 5 minutos para aquecer. Alterne 2 minutos de corrida leve com 2 minutos de caminhada, cinco vezes. Termine caminhando 5 minutos.",
+          "duration_min": 30,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "repeat", "times": 5, "of": [
+              { "kind": "run", "duration_min": 2, "rpe": 4 },
+              { "kind": "walk", "duration_min": 2, "rpe": 2 }
+            ]}
+          ]
+        },
+        { "repeat_of": 0 },
+        { "repeat_of": 0 }
+      ]
+    },
+    {
+      "week_number": 4,
+      "focus": "três minutos",
+      "notes": "Menos repetições, cada uma mais longa. A caminhada agora é mais curta que a corrida.",
+      "target_minutes": 90,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Caminhada e corrida — 3 min",
+          "description": "Caminhe 5 minutos para aquecer. Alterne 3 minutos de corrida leve com 2 minutos de caminhada, quatro vezes. Termine caminhando 5 minutos.",
+          "duration_min": 30,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "repeat", "times": 4, "of": [
+              { "kind": "run", "duration_min": 3, "rpe": 4 },
+              { "kind": "walk", "duration_min": 2, "rpe": 2 }
+            ]}
+          ]
+        },
+        { "repeat_of": 0 },
+        { "repeat_of": 0 }
+      ]
+    },
+    {
+      "week_number": 5,
+      "focus": "os treinos ficam diferentes",
+      "notes": "Daqui em diante cada treino da semana tem um formato. O primeiro repete a semana 4 e é o dia leve; o terceiro é o primeiro trecho de 15 minutos sem parar.",
+      "target_minutes": 85,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Dia leve — 4 x 3 min",
+          "description": "Igual aos treinos da semana 4. Caminhe 5 minutos, alterne 3 minutos de corrida com 2 de caminhada quatro vezes, caminhe 5 minutos.",
+          "duration_min": 30,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "repeat", "times": 4, "of": [
+              { "kind": "run", "duration_min": 3, "rpe": 4 },
+              { "kind": "walk", "duration_min": 2, "rpe": 2 }
+            ]}
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "Dois blocos de 7 min",
+          "description": "Caminhe 5 minutos. Corra 7 minutos, caminhe 3, corra 7 minutos. Termine caminhando 5 minutos.",
+          "duration_min": 30,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "repeat", "times": 2, "of": [
+              { "kind": "run", "duration_min": 7, "rpe": 4 },
+              { "kind": "walk", "duration_min": 3, "rpe": 2 }
+            ]}
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "15 minutos contínuos",
+          "description": "Caminhe 5 minutos. Corra 15 minutos sem parar, mais devagar do que você acha que precisa. Termine caminhando 5 minutos. Se precisar caminhar no meio, caminhe: o treino continua valendo.",
+          "duration_min": 25,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 15, "rpe": 4, "note": "Devagar. O objetivo é completar, não correr rápido." }
+          ]
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "focus": "até 18 minutos",
+      "notes": "O dia leve agora é o treino de dois blocos de 7 minutos, que na semana 5 era o treino do meio.",
+      "target_minutes": 88,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Dia leve — 2 x 7 min",
+          "description": "Caminhe 5 minutos. Corra 7 minutos, caminhe 3, corra 7 minutos. Termine caminhando 5 minutos.",
+          "duration_min": 30,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "repeat", "times": 2, "of": [
+              { "kind": "run", "duration_min": 7, "rpe": 4 },
+              { "kind": "walk", "duration_min": 3, "rpe": 2 }
+            ]}
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "8 e 9 minutos",
+          "description": "Caminhe 5 minutos. Corra 8 minutos, caminhe 3, corra 9 minutos. Termine caminhando 5 minutos.",
+          "duration_min": 30,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 8, "rpe": 4 },
+            { "kind": "walk", "duration_min": 3, "rpe": 2 },
+            { "kind": "run", "duration_min": 9, "rpe": 4 }
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "18 minutos contínuos",
+          "description": "Caminhe 5 minutos. Corra 18 minutos num ritmo leve e constante. Termine caminhando 5 minutos.",
+          "duration_min": 28,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 18, "rpe": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "focus": "até 22 minutos",
+      "notes": "Primeira semana em que o treino mais longo passa de 20 minutos de corrida.",
+      "target_minutes": 95,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Dia leve — 8 e 9 min",
+          "description": "Caminhe 5 minutos. Corra 8 minutos, caminhe 3, corra 9 minutos. Termine caminhando 5 minutos.",
+          "duration_min": 30,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 8, "rpe": 4 },
+            { "kind": "walk", "duration_min": 3, "rpe": 2 },
+            { "kind": "run", "duration_min": 9, "rpe": 4 }
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "10 e 10 minutos",
+          "description": "Caminhe 5 minutos. Corra 10 minutos, caminhe 3, corra 10 minutos. Termine caminhando 5 minutos.",
+          "duration_min": 33,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 10, "rpe": 4 },
+            { "kind": "walk", "duration_min": 3, "rpe": 2 },
+            { "kind": "run", "duration_min": 10, "rpe": 4 }
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "22 minutos contínuos",
+          "description": "Caminhe 5 minutos. Corra 22 minutos num ritmo leve. Termine caminhando 5 minutos.",
+          "duration_min": 32,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 22, "rpe": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "focus": "até 26 minutos",
+      "notes": "Penúltima semana. Se algum treino parecer pesado, repetir a semana 7 inteira é uma escolha válida e não atrasa nada.",
+      "target_minutes": 106,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Dia leve — 10 e 10 min",
+          "description": "Caminhe 5 minutos. Corra 10 minutos, caminhe 3, corra 10 minutos. Termine caminhando 5 minutos.",
+          "duration_min": 33,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 10, "rpe": 4 },
+            { "kind": "walk", "duration_min": 3, "rpe": 2 },
+            { "kind": "run", "duration_min": 10, "rpe": 4 }
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "12 e 12 minutos",
+          "description": "Caminhe 5 minutos. Corra 12 minutos, caminhe 3, corra 12 minutos. Termine caminhando 5 minutos.",
+          "duration_min": 37,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 12, "rpe": 4 },
+            { "kind": "walk", "duration_min": 3, "rpe": 2 },
+            { "kind": "run", "duration_min": 12, "rpe": 4 }
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "26 minutos contínuos",
+          "description": "Caminhe 5 minutos. Corra 26 minutos num ritmo leve. Termine caminhando 5 minutos.",
+          "duration_min": 36,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 26, "rpe": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "focus": "30 minutos",
+      "notes": "Última semana. Depois dela o app sugere um plano de 5 km ou de condicionamento, conforme o que você quiser fazer em seguida.",
+      "target_minutes": 113,
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Dia leve — 12 e 12 min",
+          "description": "Caminhe 5 minutos. Corra 12 minutos, caminhe 3, corra 12 minutos. Termine caminhando 5 minutos.",
+          "duration_min": 37,
+          "effort_rpe": 4,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 12, "rpe": 4 },
+            { "kind": "walk", "duration_min": 3, "rpe": 2 },
+            { "kind": "run", "duration_min": 12, "rpe": 4 }
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "26 minutos contínuos",
+          "description": "Caminhe 5 minutos. Corra 26 minutos leves. Termine caminhando 5 minutos.",
+          "duration_min": 36,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 26, "rpe": 4 }
+          ]
+        },
+        {
+          "workout_type": "easy",
+          "title": "30 minutos contínuos",
+          "description": "Caminhe 5 minutos. Corra 30 minutos leves. Termine caminhando 5 minutos. Nove semanas atrás o primeiro minuto parecia longo.",
+          "duration_min": 40,
+          "effort_rpe": 5,
+          "warmup_min": 5,
+          "cooldown_min": 5,
+          "segments": [
+            { "kind": "run", "duration_min": 30, "rpe": 4 }
+          ]
+        }
+      ]
+    }
+  ]
+}

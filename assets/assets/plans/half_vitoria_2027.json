@@ -1,0 +1,2097 @@
+{
+  "id": "half_vitoria_2027",
+  "level": "intermediate",
+  "levels": [
+    "intermediate",
+    "returning",
+    "advanced"
+  ],
+  "goal": "race_half",
+  "days_per_week": 6,
+  "duration_weeks": 40,
+  "race_date": "2027-08-29",
+  "suggested_weekdays": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6
+  ],
+  "title": "Meia Maratona de Vitória 2027",
+  "summary": "40 semanas até a meia de 29/08/2027: base, desenvolvimento, fase específica e polimento. Progressão lenta, pensada para preservar os joelhos, com fortalecimento duas vezes por semana.",
+  "principles": [
+    "Semana flexível: faça os treinos na ordem, nos dias que encaixarem. O longão fica no fim de semana.",
+    "Com 3 corridas na semana, pule a extra (opcional). Com 4, inclua.",
+    "O volume sobe no máximo cerca de 10% por semana, e a cada quatro semanas uma é mais leve.",
+    "Dor no joelho manda mais que a planilha: com dor 3 ou mais (de 0 a 10), mantenha ou reduza o treino. Se persistir, procure seu ortopedista ou fisioterapeuta.",
+    "Corrida de rua que você fizer no mês entra no lugar de um treino daquela semana."
+  ],
+  "rpe_guide": {
+    "3": "Leve. Dá para conversar em frases inteiras.",
+    "4": "Confortável. A conversa continua, com alguma pausa.",
+    "5": "Moderado. Frases curtas.",
+    "6": "Forte, mas controlado. Poucas palavras.",
+    "7": "Ritmo de prova longa. Conversa difícil."
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "focus": "base",
+      "notes": "Começo da fase de base: três corridas leves, um longão que cresce devagar e fortalecimento. Tudo em ritmo de conversa.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 7 km",
+          "description": "7 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 50,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "focus": "base",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 7,5 km",
+          "description": "7,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.5,
+          "duration_min": 54,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "focus": "base",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 8 km",
+          "description": "8 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 8.0,
+          "duration_min": 58,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "4 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "4 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 6 km",
+          "description": "6 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 43,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "focus": "base",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 8,5 km",
+          "description": "8,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 8.5,
+          "duration_min": 61,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "focus": "base",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 9 km",
+          "description": "9 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 9.0,
+          "duration_min": 65,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "focus": "base",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 9,5 km",
+          "description": "9,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 9.5,
+          "duration_min": 68,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "4 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "4,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 4.5,
+          "duration_min": 32,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 7 km",
+          "description": "7 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 50,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "focus": "base",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 10 km",
+          "description": "10 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 10.0,
+          "duration_min": 72,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "focus": "base",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 10,5 km",
+          "description": "10,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 10.5,
+          "duration_min": 76,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "focus": "base",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 4 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 11 km",
+          "description": "11 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 11.0,
+          "duration_min": 79,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "4,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 4.5,
+          "duration_min": 32,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "4,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 4.5,
+          "duration_min": 32,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 8 km",
+          "description": "8 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 8.0,
+          "duration_min": 58,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 13,
+      "focus": "desenvolvimento",
+      "notes": "Fase de desenvolvimento: o treino do meio vira fartlek, com trechos curtos um pouco mais fortes.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 6 x 1 min",
+          "description": "6,5 km no total. Comece com 10 minutos leves, depois faça 6 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 43,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 11,5 km",
+          "description": "11,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 11.5,
+          "duration_min": 83,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 14,
+      "focus": "desenvolvimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 6 x 1 min",
+          "description": "6,5 km no total. Comece com 10 minutos leves, depois faça 6 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 43,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 12 km",
+          "description": "12 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 12.0,
+          "duration_min": 86,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 15,
+      "focus": "desenvolvimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 6 x 1 min",
+          "description": "6,5 km no total. Comece com 10 minutos leves, depois faça 6 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 43,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 12,5 km",
+          "description": "12,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 12.5,
+          "duration_min": 90,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 16,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "4,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 4.5,
+          "duration_min": 32,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 9 km",
+          "description": "9 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 9.0,
+          "duration_min": 65,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 17,
+      "focus": "desenvolvimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 46,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 7 x 1 min",
+          "description": "7 km no total. Comece com 10 minutos leves, depois faça 7 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 46,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 13 km",
+          "description": "13 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 13.0,
+          "duration_min": 94,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 18,
+      "focus": "desenvolvimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 46,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 7 x 1 min",
+          "description": "7 km no total. Comece com 10 minutos leves, depois faça 7 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 46,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 13,5 km",
+          "description": "13,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 13.5,
+          "duration_min": 97,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 19,
+      "focus": "desenvolvimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 46,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 8 x 1 min",
+          "description": "7 km no total. Comece com 10 minutos leves, depois faça 8 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 46,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 14 km",
+          "description": "14 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 14.0,
+          "duration_min": 101,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 20,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 10 km",
+          "description": "10 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 10.0,
+          "duration_min": 72,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 21,
+      "focus": "desenvolvimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 46,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 8 x 1 min",
+          "description": "7 km no total. Comece com 10 minutos leves, depois faça 8 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 46,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 14,5 km",
+          "description": "14,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 14.5,
+          "duration_min": 104,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 22,
+      "focus": "desenvolvimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 49,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 9 x 1 min",
+          "description": "7,5 km no total. Comece com 10 minutos leves, depois faça 9 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.5,
+          "duration_min": 50,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 15 km",
+          "description": "15 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 15.0,
+          "duration_min": 108,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 23,
+      "focus": "desenvolvimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 49,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "interval",
+          "title": "Fartlek — 9 x 1 min",
+          "description": "7,5 km no total. Comece com 10 minutos leves, depois faça 9 trechos de 1 minuto um pouco mais forte (esforço 6 de 10: a conversa fica difícil) com 2 minutos leves entre eles. Termine com 5 minutos leves. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.5,
+          "duration_min": 50,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 15,5 km",
+          "description": "15,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 15.5,
+          "duration_min": 112,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 24,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 11 km",
+          "description": "11 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 11.0,
+          "duration_min": 79,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 25,
+      "focus": "específica",
+      "notes": "Fase específica: entra o ritmo de prova e o longão chega perto dos 19 km. Não é preciso correr 21 km antes da prova.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 49,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 3 km",
+          "description": "2 km leves para aquecer, 3 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 6.5,
+          "duration_min": 41,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 16 km",
+          "description": "16 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 16.0,
+          "duration_min": 115,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 26,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 49,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 3 km",
+          "description": "2 km leves para aquecer, 3 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 6.5,
+          "duration_min": 41,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 16,5 km",
+          "description": "16,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 16.5,
+          "duration_min": 119,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 27,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.0,
+          "duration_min": 49,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 3 km",
+          "description": "2 km leves para aquecer, 3 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 6.5,
+          "duration_min": 41,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 17 km",
+          "description": "17 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 17.0,
+          "duration_min": 122,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 28,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 12 km",
+          "description": "12 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 12.0,
+          "duration_min": 86,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 29,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.5,
+          "duration_min": 53,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 3,5 km",
+          "description": "2 km leves para aquecer, 3,5 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 7.0,
+          "duration_min": 44,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 17 km",
+          "description": "17 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 17.0,
+          "duration_min": 122,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 30,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.5,
+          "duration_min": 53,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 3,5 km",
+          "description": "2 km leves para aquecer, 3,5 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 7.0,
+          "duration_min": 44,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 17,5 km",
+          "description": "17,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Nos últimos 3 km, suba para o ritmo de prova se o corpo estiver bem. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 17.5,
+          "duration_min": 126,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 31,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.5,
+          "duration_min": 53,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 4 km",
+          "description": "2 km leves para aquecer, 4 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 7.5,
+          "duration_min": 47,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 18 km",
+          "description": "18 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 18.0,
+          "duration_min": 130,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 32,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.5,
+          "duration_min": 39,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 46,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 12 km",
+          "description": "12 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 12.0,
+          "duration_min": 86,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 33,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "7,5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 7.5,
+          "duration_min": 53,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 4,5 km",
+          "description": "2 km leves para aquecer, 4,5 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 8.0,
+          "duration_min": 50,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 18 km",
+          "description": "18 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 18.0,
+          "duration_min": 130,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 34,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "8 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 8.0,
+          "duration_min": 56,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 5 km",
+          "description": "2 km leves para aquecer, 5 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 8.5,
+          "duration_min": 54,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 18,5 km",
+          "description": "18,5 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Nos últimos 3 km, suba para o ritmo de prova se o corpo estiver bem. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 18.5,
+          "duration_min": 133,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 35,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "8 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 8.0,
+          "duration_min": 56,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 5,5 km",
+          "description": "2 km leves para aquecer, 5,5 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 9.0,
+          "duration_min": 57,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 19 km",
+          "description": "19 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 19.0,
+          "duration_min": 137,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 36,
+      "focus": "semana leve",
+      "notes": "Semana mais leve: o corpo assimila o que treinou nas últimas três.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6,5 km leves (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.5,
+          "duration_min": 46,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Semana mais leve: no lugar do treino extra, descanse."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 13 km",
+          "description": "13 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 13.0,
+          "duration_min": 94,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 37,
+      "focus": "específica",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "8 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 8.0,
+          "duration_min": 56,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova — 6 km",
+          "description": "2 km leves para aquecer, 6 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h — ajuste ao que o corpo responder) e 1,5 km leve para soltar.",
+          "distance_km": 9.5,
+          "duration_min": 60,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Faça a ficha abaixo, com movimentos lentos e controlados. Músculo forte protege o joelho. Se algum exercício doer, pule e fale com seu ortopedista ou personal.",
+          "duration_min": 40,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "recovery",
+          "title": "Corrida extra (opcional)",
+          "description": "Só nas semanas em que der para correr 4 vezes. 5 km bem leves. Se a semana estiver corrida, pule sem culpa: os outros três treinos são os que importam.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 16 km",
+          "description": "16 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 16.0,
+          "duration_min": 115,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 38,
+      "focus": "polimento",
+      "notes": "Polimento: o volume cai para o corpo chegar descansado. Treinar a mais agora não melhora a prova.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "6 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 6.0,
+          "duration_min": 42,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Sessão leve, só para manter: metade das séries de sempre, sem carga nova. Nada de exercício novo perto da prova.",
+          "duration_min": 25,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova curto",
+          "description": "2 km leves, 3 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h) e 1 km leve. É para lembrar o ritmo, não para cansar.",
+          "distance_km": 6.0,
+          "duration_min": 38,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Sessão leve, só para manter: metade das séries de sempre, sem carga nova. Nada de exercício novo perto da prova.",
+          "duration_min": 25,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Perto da prova, descanso vale mais que treino extra."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 14 km",
+          "description": "14 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 14.0,
+          "duration_min": 101,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 39,
+      "focus": "polimento",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "5 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 5.0,
+          "duration_min": 35,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Sessão leve, só para manter: metade das séries de sempre, sem carga nova. Nada de exercício novo perto da prova.",
+          "duration_min": 25,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "tempo",
+          "title": "Ritmo de prova curto",
+          "description": "2 km leves, 2 km em ritmo de prova (esforço 6 de 10; referência de 5:40/km para fechar em menos de 2h) e 1 km leve. É para lembrar o ritmo, não para cansar.",
+          "distance_km": 5.0,
+          "duration_min": 32,
+          "effort_rpe": 6
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Sessão leve, só para manter: metade das séries de sempre, sem carga nova. Nada de exercício novo perto da prova.",
+          "duration_min": 25,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Perto da prova, descanso vale mais que treino extra."
+        },
+        {
+          "workout_type": "long",
+          "title": "Longão — 10 km",
+          "description": "10 km bem leves (esforço 3 a 4 de 10). O objetivo é tempo em movimento, não ritmo. Leve água. Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 10.0,
+          "duration_min": 72,
+          "effort_rpe": 4
+        }
+      ]
+    },
+    {
+      "week_number": 40,
+      "focus": "polimento",
+      "notes": "Semana da prova. Pouco treino, bastante descanso e sono.",
+      "workouts": [
+        {
+          "workout_type": "easy",
+          "title": "Corrida leve",
+          "description": "4 km em ritmo de conversa: dá para falar frases inteiras (esforço 3 de 10). Prefira terreno plano e evite descidas longas. Se o joelho incomodar, diminua o ritmo ou caminhe; se a dor continuar, pare.",
+          "distance_km": 4.0,
+          "duration_min": 28,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Sessão leve, só para manter: metade das séries de sempre, sem carga nova. Nada de exercício novo perto da prova.",
+          "duration_min": 25,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "easy",
+          "title": "Leve com acelerações",
+          "description": "3 km bem leves e, no fim, 4 acelerações de 20 segundos com 1 minuto andando entre elas. Só para soltar as pernas.",
+          "distance_km": 3.0,
+          "duration_min": 21,
+          "effort_rpe": 3
+        },
+        {
+          "workout_type": "cross",
+          "title": "Fortalecimento",
+          "description": "Sessão leve, só para manter: metade das séries de sempre, sem carga nova. Nada de exercício novo perto da prova.",
+          "duration_min": 25,
+          "effort_rpe": 5
+        },
+        {
+          "workout_type": "rest",
+          "title": "Descanso",
+          "description": "Perto da prova, descanso vale mais que treino extra."
+        },
+        {
+          "workout_type": "long",
+          "title": "Meia Maratona de Vitória",
+          "description": "Dia da prova. Largue mais devagar do que a vontade mandar, beba água nos postos e guarde energia para os últimos 5 km. Para fechar em menos de 2h, a média é 5:41/km. Boa prova!",
+          "distance_km": 21.1,
+          "duration_min": 120,
+          "effort_rpe": 7
+        }
+      ]
+    }
+  ]
+}
